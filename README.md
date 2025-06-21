@@ -102,7 +102,7 @@ src/
 
 ### 🧪 How to Run
 
-1. Clone the repository: gh repo clone velumani260591/Bus-ticket-booking
+1. Clone the repository:https://github.com/velumani260591/Bus-ticket-booking.git
 
    ```
    
