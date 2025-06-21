@@ -105,7 +105,7 @@ src/
 1. Clone the repository:
 
    ```
-   git clone https://github.com/thrivendra1/Bus_ticket_bookings.git
+   
    ```
 
 2. Import into your IDE and run `OnlineBusTicketBookingApplication.java`.
